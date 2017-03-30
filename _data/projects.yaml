@@ -1,0 +1,100 @@
+- project: name
+  tagLine: [mobile better]
+  notes:
+  name: Beautiful mobile experiences made easy
+  header: Something
+  story: Fast simple creation of beautiful mobile experiences without needing your own dedicated design and development team. 
+  employer: <a href="www.wrap.co">Wrap</a>
+  images: [[wrap1.jpg, Product Look Book], [wrap2.jpg, Lead Generation],[wrap3.jpg, Mobile Shopping]]
+
+- project: name
+  tagLine: [new products]
+  notes:
+  name: The world's smartest helmet 
+  header: SKULLY AR-1 HUD Motorcycle Helmet
+  story: Dragging the Motorsports industries into the future. "The most anticipated motorcycle helmet ever produced" - Road & Track
+  employer: <a href="www.skullysystems.com">Skully</a>
+  images: [[skully_ar1.jpg, Skully AR-1 HUD Motorcycle Helmet],[ar1_specs.jpg, Tech Specs]]
+
+- project: name
+  tagLine: [new products]
+  notes:
+  name: Samsung Future UX
+  header: Samsung Future UX
+  story: Working with a tight multidisciplinary team of designers and engineers, I have been working to create a compelling vision of future products and services for Samsung. Our designs and scope of work extend across mobile, tablet, television and wearable devices. 
+  employer: <a href="www.samsung.com">Samsung</a>
+  images: [[samsung1.jpg, Confidential], [samsung2.jpg, Design Brief Example]]
+
+- project:
+  tagLine: [vacations more magical]
+  notes:
+  name: Disney MyMagic+
+  header: Disney MyMagic+
+  story: During my tenure at frog I helped design and prototype one of the largest transformations ever undertaken for this global powerhouse. 
+  employer: <a href="frogdesign.com">frog</a>
+  images: [[disney1.jpg, 'Magic Band, Tap Point and Mobile Cast Interface'], [disney2.jpg,Guest Mobile Experience]]
+  links:
+  - [ USAToday Story ,"http://www.usatoday.com/story/dispatches/2014/01/27/disney-mymagic-vacation-planning/4582957/"]
+  - [ Disney MyMagicPlus,"https://disneyworld.disney.go.com/plan/my-disney-experience/my-magic-plus/"]
+
+- project:
+  tagLine: [teams better]
+  name: frog BuildOff!
+  story: I created and ran the first day long company wide BuildOff for frog in San Francisco. To help build new relationships across disciplines, I chose teams of designers, technologists, writers and researchers to work together. Each team was given a goal to design and build the <em>most interesting</em> creation. After a tough decision, the judges awarded the medal to "CPR training frog". <br><br>This was such a hit within frog that I was invited to bring the BuildOff globally to our other studios. 
+  images:
+  - [build7.jpg, The Rules]
+  - [build6.jpg, Getting in the maker spirit]
+  - [build3.jpg, Nothing sells an idea like an acronym]
+  - [build1.jpg, Hot glue solves all problems]
+  - [build2.jpg, <strong>CLEAR!!</strong>]
+  - [build5.jpg, The winning team is announced]
+  - [build4.jpg, Medals are awarded]
+  
+- project:
+  tagLine: [furniture]
+  name: Wood and Metal
+  story: Some of my recent home furniture creations. I've been working with a bamboo plywood that creates beautiful patterns after it is stained.
+  images: 
+  - [book2.jpg, Installed and mounted on the wall]
+  - [book1.jpg, Loaded up with books]
+  - [table3.jpg, Planning the mounting of the natural peeled bamboo legs]
+  - [table1.jpg, The steel apron prepped to receive the trivet]
+  - [table2.jpg, The finished piece with removable trivet riser]  
+
+- project:
+  tagLine: [sculpture]
+  name: Wood, Metal, Glass
+  story: Understanding the properties of materials is the only way to get the best from them. This applies as equally to wood, metal and glass as digital interfaces. 
+  images:
+  - [candle.jpg, Multistepped tea light holder (made of MDF)]
+  - [box.jpg, Captured wood cube inside continuous steel frame]
+
+- project:
+  name: At Home
+  tagLine: [toys]
+  header: Some things are made just for fun.
+  story: Starting with a <a href="http://www.staples.com/Staples-Easy-Button/product_606396">Staples Easy Button</a> I made a replica OctoAlert button for the kids to press while they watch the undersea adventures of the <a href="http://www.octonauts.com/">Octonuats</a>. Pressing the button triggers a small app I have running on the living room computer which sounds the <a href="/sounds/alert.mp3">OctoAlert</a>.
+  images: 
+  - [octo1.jpg, Disassembling the Easy Button]
+  - [octo2.jpg, The sacrificial wireless mouse used for triggering the computer]
+  - [octo3.jpg, The newly laser etched Octoalert Button]
+  - [octoapp.png, The desktop application which plays the sounds ]
+
+- project:
+  tagLine: [ridiculously fun software]
+  name: Reverse Soundboard
+  story: A fun tool that serves up a web soundboard with a twist when a client clicks on a sound it plays on the serving computer not the client. This is perfect for open plan offices/schools, anywhere you have a bunch of people listening to a common audio system from a computer. <br><br>Bonus points for recording co-workers and playing their voices back for everyone. <em>(warning not all people find this funny)</em>
+  images:
+  - [soundboard1.png, The responsive HTML interface (works on desktop and mobile)]
+  - [soundboard2.png, Sweet sweet python code]
+  links:
+  - [Download it here!, "https://github.com/code128/networkedsoundboard"]
+
+- project:
+  name: At Home
+  tagLine: [kids]
+  header: A couple of Beautiful Kids
+  story: Matty is 8 and a huge fan of Pokemon, Star Wars and iPad games. He's not a fan of eating much besides cereal. Meriah is 4 and loves to draw, play with her ponies, act out stories with her toys and come up with new names for our dog. 
+  images:
+  - [matty.gif, Mattathias Archer Bloom]
+  - [meriah.gif, Meriah Wright Bloom]
