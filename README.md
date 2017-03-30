@@ -1,4 +1,4 @@
-bloomjosh
+blog-source
 =========
 
-Note to myself: push to the gh-pages branch to auto upload to the bloomjosh.com site. 
+Run ./deploy.sh locally build and push updated bloomjosh.com  
