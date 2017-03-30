@@ -6,7 +6,7 @@ paginate_path: "/blog/page-:num"
 google_analytics: UA-78470181-1
 
 # SEO settings
-title: Joshua Bloom
+title: Joshua Bloom's Portfolio
 description: UX Director with a heart of gold.
 url: "http://bloomjosh.com"
 twitter_username: joshbloom

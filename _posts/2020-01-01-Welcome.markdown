@@ -9,7 +9,9 @@ image-sm: /img/josh_bg_sm.jpg
 ---
 I'm Joshua Bloom, a design and technology leader. At heart I'm a [maker](http://makezine.com/2016/04/01/what-is-a-maker-you-are/). More formally you might call me a Director of User Experience, Head of Design, or Product Owner. 
 
-Originally trained as a software engineer, I went back to [school](https://massart.edu/) to study Design. I now use my combined skills and experience to lead teams and companies to produce their best work yet. Take a look around the site at some of my more [recent projects](/archive), unfortunately many of my older projects are locked behind powerful wards of NDA magic. If you'd like to learn more, get [in touch.](mailto:joshbloom@gmail.com)
+Originally trained as a software engineer, I went back to [school](https://massart.edu/) to study Design. I now use my combined skills and experience to lead teams and companies to produce their best work yet. Take a look around the site at some of my more [recent projects](/archive), unfortunately many of my older projects are locked behind powerful wards of NDA magic. 
+
+If you'd like to learn more, get [in touch.](mailto:joshbloom@gmail.com)
 
 <figure>
   <a href="/img/family.jpg" title="">
