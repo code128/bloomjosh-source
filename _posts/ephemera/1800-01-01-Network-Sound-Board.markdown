@@ -17,7 +17,7 @@ This is perfect for open plan offices/schools, anywhere you have a bunch of peop
 Also extra fun points for recording co-workers and playing their voices back for everyone.
 
 + **Time Period:** Late 2012
-+ (Github Source)[https://github.com/code128/networkedsoundboard]
++ [Github Source](https://github.com/code128/networkedsoundboard)
 
 <a href="/assets/img/soundboard.jpg" data-fancybox="gallery" data-caption="">
   <img src="/assets/img/soundboard.jpg" alt="" />

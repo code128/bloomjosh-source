@@ -17,7 +17,7 @@ You know how when a boxer makes their way to the stage they get their own entran
 The badge security system had an internally web accessible page that reported the front door opening and listed the badge number so this script checked it every second and if it saw a new entrance, it would play that persons theme song as their entrance music. 
 
 + **Time Period:** Mid-Late 2017
-+ (Github Source)[https://github.com/code128/entrance-music]
++ [Github Source](https://github.com/code128/entrance-music)
 
 <a href="/assets/img/entrance.jpg" data-fancybox="gallery" data-caption="">
   <img src="/assets/img/entrance.jpg" alt="" />
