@@ -9,4 +9,4 @@ gulp
 
 
 ## Adapted from 
-[Jekflix Template](https://github.com/thiagorossener/jekflix-template/fork)
+[Jekflix Template](https://github.com/thiagorossener/jekflix-template)
