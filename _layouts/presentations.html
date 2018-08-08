@@ -7,20 +7,7 @@ layout: compress
     {% include head.html %}
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
-<header class="bar-header">
-    <a id="menu">
-        <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
-    </a>
-    <a id="search" class="dosearch">
-        <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
-    </a>
-    <h1 class="logo">
-        <a href="{{ site.baseurl }}/">
-            Selection of Presentations
-        </a>
-    </h1>
-</header>
-
+        {% include header.html %}
 <div id="mask" class="overlay"></div>
 
 {% include menu.html %}

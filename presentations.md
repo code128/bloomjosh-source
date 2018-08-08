@@ -3,6 +3,7 @@ layout: presentations
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+    <h1 class="pageHeader">Presentations</h1>
     <div id="grid" class="row flex-grid">
 {% assign oldposts = site.posts | where: "label", "presentation" %}
     {% for post in oldposts %}
