@@ -1,0 +1,41 @@
+---
+layout: page
+label: portfolio
+title: "Wrap SAAS Authoring Tool"
+date: 2016-10-01
+tags:
+  - UX
+  - Visual_Design
+description: The Wrap Authoring tool, a web based SAAS tool for wrap and card creation.
+image: assets/img/wrap_saas_bg.jpg
+image-sm: assets/img/wrap_saas_bg_sm.jpg
+---
+
+### At Wrap Media I was leading the "platform" development of our SAAS authoring tool. This work was geared towards system integrators and other technical implementation users who needed the power of automation to create thousands of cards and wraps on demand. 
+
+
++ **Role:** VP Creative Technology
++ **Team:** (5-8) 2 Creative Technologists (creating custom client components), 3 UX Designers, 3 Visual Designers 
++ **Company:** [Wrap](https://wrap.co/)
++ **URL:** [Wrap Authoring Tool](https://authoring.wrap.co/)
++ **Time Period:** Late 2016
+
+Click the images to learn more. 
+
+<a href="/assets/img/wrap_saas_img1.jpg" data-fancybox="gallery" data-caption="Screenshot: Main wrap view showing both manually created Wraps as well as Wraps that were used in personalization (the lightning bolt sign).">
+  <img src="/assets/img/wrap_saas_img1.jpg" alt="" />
+</a>
+
+
+<a href="/assets/img/wrap_saas_img2.jpg" data-fancybox="gallery" data-caption="Screenshot: Editing of bound data tokens.">
+  <img src="/assets/img/wrap_saas_img2.jpg" alt="" />
+</a>
+
+
+<a href="/assets/img/wrap_saas_img3.jpg" data-fancybox="gallery" data-caption="Screenshot: Card collection screen. Collections are how users can create, group and search 1000s of cards easily with tagging.">
+  <img src="/assets/img/wrap_saas_img3.jpg" alt="" />
+</a>
+
+<a href="/assets/img/wrap_saas_img4.jpg" data-fancybox="gallery" data-caption="Large poster format I created to help socialize a new approach to automated card creation. Large scale representations of complex user flows are key for helping gain internal buy in and consensus on new ideas. ">
+  <img src="/assets/img/wrap_saas_img4.jpg" alt="" />
+</a>
