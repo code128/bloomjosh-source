@@ -3,7 +3,7 @@ layout: main
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="pageHeader">Work</h1>
+    <h1 class="pageHeader">A selection of work</h1>
     <div id="grid" class="row flex-grid">
     {% assign posts = site.posts | where: "label", "portfolio" %}    
     {% for post in posts  %}
