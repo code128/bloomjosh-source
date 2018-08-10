@@ -9,8 +9,7 @@ tags:
   - Prototyping
   - Creative_Direction
 description: Darpa Plan X
-image: assets/img/darpa_bg.jpg
-image-sm: assets/img/darpa_bg_sm.jpg
+image: /assets/img/darpa_bg.jpg
 
 ---
 
@@ -19,7 +18,7 @@ image-sm: assets/img/darpa_bg_sm.jpg
 This was a great project where we were able to dive deep, understand our users, learn about the inner workings of the internet and get a feel for the true scale of the web. Spoiler alert it's *very*, *very* big, and cyberwarfare is fought on timescales that humans do not operate at. Overall an incredibly challenging project and I'm happy to report that my team ably met and exceeded that challenge. 
 
 + **Role:** Creative Director
-+ **Team:** (5) 2 Interaction Designers, 1 Visual Designer, 1 Design Technologist, 1 Project Manager
++ **Team Size:** (5) 2 Interaction Designers, 1 Visual Designer, 1 Design Technologist, 1 Project Manager
 + **Company:** [frog](https://www.frogdesign.com)
 + **Client:** [Darpa](http://www.darpa.mil)
 + **Time Period:** Mid 2013

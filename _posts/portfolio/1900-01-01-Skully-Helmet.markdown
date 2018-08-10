@@ -9,8 +9,7 @@ tags:
   - Creative_Direction
   - Player_Coach
 description: The flagship SKULLY AR-1 Helmet.
-image: assets/img/skully_ar1_bg.jpg
-image-sm: assets/img/skully_ar1_bg_sm.jpg
+image: /assets/img/skully_ar1_bg.jpg
 ---
 
 ### The SKULLY AR-1 helmet was the world's first augmented reality motorcycle helmet. Featuring a 180 degree rear view camera and a heads up display, it was a figher pilot helmet for motorcycle riders. 
@@ -19,8 +18,8 @@ I hired and led the Design Team at SKULLY and personally did hands on design wor
 
 I joined SKULLY as the VP of Design and expanded my role into VP of Product as we began planning multiple products and the larger SKULLY ecosystem.
 
-+ **Role:** VP Design (player/coach)
-+ **Team:** (5) 1 Industrial Designer, 1 Visual Designer, 3 Mechanical Engineers
++ **Role:** VP Product
++ **Team Size:** (5) 1 Industrial Designer, 1 Visual Designer, 3 Mechanical Engineers
 + **Company:** [SKULLY](https://en.wikipedia.org/wiki/Skully_(helmet))
 + **Time Period:** Mid 2015
 

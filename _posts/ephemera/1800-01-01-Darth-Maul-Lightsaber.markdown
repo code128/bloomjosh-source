@@ -1,7 +1,7 @@
 ---
 layout: page
 label: archive
-title: "Darth Mauls Lightsaber"
+title: "Darth Maul's Lightsaber"
 date: 2015-12-28
 tags:
   - make

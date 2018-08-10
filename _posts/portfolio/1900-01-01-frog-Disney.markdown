@@ -9,8 +9,7 @@ tags:
   - UX
   - Prototyping
 description: The Disney Personal Experience Portal and supporting software for Guests and Cast Members.
-image: assets/img/disney_bg.jpg
-image-sm: assets/img/disney_bg_sm.jpg
+image: /assets/img/disney_bg.jpg
 ---
 
 ### The Disney Magic Band and Personal Experience Portal was an amazing project that taught me multiple lessons that I'm still using to this day. An extremely challenging project, our team got the chance to flex every muscle we had and then some. 
@@ -18,7 +17,7 @@ image-sm: assets/img/disney_bg_sm.jpg
 Disney engaged frog early in this project to help them envision and design the overall experience for guests and castmembers. Unfortunately I can't go very deep into this work, but hopefully these images and links give you a flavor of my work.
 
 + **Role:** Technology & Creative Direction for the experience prototype
-+ **Team:** (~14) 5 Design Technologists, 3 Interaction Designers, 4 Visual Designers, 1 Technical Architect, 1 Project Manager
++ **Team Size:** (~14) 5 Design Technologists, 3 Interaction Designers, 4 Visual Designers, 1 Technical Architect, 1 Project Manager
 + **Company:** [frog](https://www.frogdesign.com)
 + **Client:** [Disney](https://disneyworld.disney.go.com/)
 + **Time Period:** Late 2012

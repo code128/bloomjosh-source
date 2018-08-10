@@ -86,7 +86,7 @@ gulp.task('imagemin', function() {
 gulp.task('watch', function () {
   gulp.watch('src/styl/**/*.styl', ['stylus']);
   gulp.watch('src/js/**/*.js', ['js']);
-  gulp.watch(['**/*.html','index.html', '_includes/*.html', '_layouts/*.html', '_posts/*','_posts/ephemera/*','_posts/portfolio/*','_posts/presentations/*'], ['jekyll-rebuild']);
+  gulp.watch(['**/*.html','index.html', '*.md','_includes/*.html', '_layouts/*.html', '_posts/*','_posts/ephemera/*','_posts/portfolio/*','_posts/presentations/*'], ['jekyll-rebuild']);
 });
 
 /**

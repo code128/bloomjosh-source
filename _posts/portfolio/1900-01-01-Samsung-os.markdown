@@ -11,8 +11,7 @@ tags:
   - Creative_Direction
   - Prototyping
 description: A ground up redesign of a mobile operating system for the largest cell phone manufacturer in the world. 
-image: assets/img/samsung_os_bg.jpg
-image-sm: assets/img/samsung_os_bg_sm.jpg
+image: /assets/img/samsung_os_bg.jpg
 ---
 
 ### Samsung asked our UX Lab for a complete redesign of a mobile operating system, looking for a way to differentiate from the grid of apps that still greets mobile phone users today.
@@ -20,7 +19,7 @@ image-sm: assets/img/samsung_os_bg_sm.jpg
 My team embarked on an intensive research period where we deeply understood global user behavior and began developing the insights that would translate into a new mobile OS paradigm. 
 
 + **Role:** Creative Director
-+ **Team:** (8-18) 2 phase project. 8 designers (UX, Visual, Motion) during design/research expanding to 18 (including a remote Android Development team) during the prototype development phase.
++ **Team Size:** (8-18) 2 phase project. 8 designers (UX, Visual, Motion) during design/research expanding to 18 (including a remote Android Development team) during the prototype development phase.
 + **Company:** [Samsung](http://www.samsung.com/us/mobile/phones/)
 + **Time Period:** Early 2013
 

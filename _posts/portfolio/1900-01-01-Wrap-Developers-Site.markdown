@@ -8,16 +8,15 @@ tags:
   - Visual_Design
   - HTML5
 description: The Wrap developers site.
-image: assets/img/wrap_dev_bg.jpg
-image-sm: assets/img/wrap_dev_bg_sm.jpg
+image: /assets/img/wrap_dev_bg.jpg
 ---
 
 ### At Wrap Media I designed the evolution of the Wrap platform from a designer focused authoring tool to a developer focused platform that can interconnect with business systems. 
 
 This developer site was built on top of the great open source library [slate](https://github.com/lord/slate). We used slate as our starting point and customized our internal development pipeline to jump through all the conversion hoops neccessary to ensure that our developer documentation was up to date and stayed in sync with any changes. 
 
-+ **Role:** VP Creative Technology
-+ **Team:** (3) 1 Visual Designer, 1 Developer
++ **Role:** VP Product Platform
++ **Team Size:** (3) 1 Visual Designer, 1 Developer
 + **Company:** [Wrap](https://wrap.co/)
 + **URL:** [Wrap Developers](https://developers.wrap.co/)
 + **Time Period:** Late 2016

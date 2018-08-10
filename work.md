@@ -3,10 +3,10 @@ layout: main
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="pageHeader">Selection of Ephemera (things I make for fun)</h1>
+    <h1 class="pageHeader">Work</h1>
     <div id="grid" class="row flex-grid">
-{% assign oldposts = site.posts | where: "label", "archive" %}
-    {% for post in oldposts %}
+    {% assign posts = site.posts | where: "label", "portfolio" %}    
+    {% for post in posts  %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
                 <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.category }}">
@@ -24,9 +24,9 @@ layout: main
                 {% endif %}
                 <div class="box-info">
                     <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
-                    <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
+                    <!--time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
                         {% include date.html date=post.date %}
-                    </time>
+                    </time-->
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
                             {{ post.title }}

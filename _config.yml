@@ -30,16 +30,17 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Professional Portfolio
+  - title: Welcome
     url: /
-  - title: About
-    url: /about/
   - title: Contact
     url: /contact/
-  - title: Presentations
-    url: /presentations/    
-  - title: Things I make for fun
+  - title: "&nbsp"
+  - title: Ephemera
     url: /ephemera/
+  - title: Presentations
+    url: /presentations/
+  - title: Work
+    url: /work/    
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

@@ -8,8 +8,7 @@ tags:
   - Facilitation
   - Prototyping
 description: Created the first Buildoff Team Challenge at frog
-image: assets/img/buildoff_bg.jpg
-image-sm: assets/img/buildoff_bg.jpg
+image: /assets/img/buildoff_bg.jpg
 
 ---
 

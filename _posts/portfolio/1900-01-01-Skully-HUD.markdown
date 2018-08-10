@@ -8,14 +8,13 @@ tags:
   - Visual_Design
   - Creative_Direction
 description: The SKULLY Heads Up Display
-image: assets/img/skully_hud_bg.jpg
-image-sm: assets/img/skully_hud_bg_sm.jpg
+image: /assets/img/skully_hud_bg.jpg
 ---
 
 ### The SKULLY HUD was the key visual interface for our riders. It needed to be crisp, non distracting, and present just the right information at the right time. 
 
-+ **Role:** VP Design (player/coach)
-+ **Team:** (3) 1 Visual Designer, 1 Firmware Developer
++ **Role:** VP Product
++ **Team Size:** (3) 1 Visual Designer, 1 Firmware Developer
 + **Company:** [SKULLY](https://en.wikipedia.org/wiki/Skully_(helmet))
 + **Time Period:** Late 2015
 

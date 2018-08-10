@@ -8,16 +8,15 @@ tags:
   - Visual_Design
   - Creative_Direction
 description: The SKULLY mobile application.
-image: assets/img/skully_web_bg.jpg
-image-sm: assets/img/skully_web_bg_sm.jpg
+image: /assets/img/skully_web_bg.jpg
 ---
 
 ### The SKULLY web experience was a multifaceted home page for SKULLY. It was our main communication method with our pre-order customers and was built to grow into a social network hub as the product rolled out.  
 
 In the early days of the site there were a few main goals: generate excitement, embody the SKULLY brand, educate prospective customers and push pre-order sales.
 
-+ **Role:** VP Design (player/coach)
-+ **Team:** (7) 1 Visual Designer, 1 Creative Director, 1 Creative Engineer, 1 Copywriter, 1 Front end developer, 1 Photographer, 1 Videographer
++ **Role:** VP Product
++ **Team Size:** (7) 1 Visual Designer, 1 Creative Director, 1 Creative Engineer, 1 Copywriter, 1 Front end developer, 1 Photographer, 1 Videographer
 + **Company:** [SKULLY](https://en.wikipedia.org/wiki/Skully_(helmet))
 + **Time Period:** Mid 2015
 
