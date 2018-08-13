@@ -35,12 +35,12 @@ links:
   - title: Contact
     url: /contact/
   - title: "&nbsp"
-  - title: Ephemera
-    url: /ephemera/
+  - title: Work
+    url: /work/
   - title: Presentations
     url: /presentations/
-  - title: Work
-    url: /work/    
+  - title: Ephemera
+    url: /ephemera/    
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
