@@ -40,7 +40,9 @@ links:
   - title: Presentations
     url: /presentations/
   - title: Ephemera
-    url: /ephemera/    
+    url: /ephemera/
+  - title: Resume
+    url: /assets/Joshua_Bloom_Resume_2018_sm.pdf
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
