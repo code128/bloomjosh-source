@@ -8,7 +8,7 @@ permalink: /
 
 Welcome, I'm Joshua Bloom, a product leader. 
 
-I'm currently the Chief Product Officer for [wrap.co](https://wrap.co) where I'm shepherding the company through a transition from a general purpose tool to a business focused platform for customer messaging. 
+I'm currently the head of product at [wrap.co](https://wrap.co) where I'm shepherding the company through a transition from a general purpose tool to a business focused platform for customer messaging. 
 
 ### Background
 
