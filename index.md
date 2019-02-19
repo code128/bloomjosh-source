@@ -8,7 +8,7 @@ permalink: /
 
 Welcome, I'm Joshua Bloom, a product design leader. 
 
-I'm currently a Director of UX for [Google Cloud](https://cloud.google.com/) where I'm helping to expand the 'serverless' offerings. 
+I'm a Director of UX Design for [Google Cloud](https://cloud.google.com/) where I'm helping to expand the 'serverless' offerings. 
 
 ### Background
 
