@@ -17,27 +17,23 @@ permalink: /contact/
   <h2>Need to get in touch, but don't know how to email <a href="mailto:joshbloom@gmail.com">me</a> directly? Fill out this form</h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
-      <fieldset>
-        <input type="hidden" name="_subject" value="New contact!" />
-        <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
-        <input type="hidden" name="_language" value="en" />
+<form
+  action="https://formspree.io/f/joshbloom@gmail.com"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
-        <input type="text" name="name" placeholder="Your name" v-validate="'required'"
-               :class="{ 'has-error': errors.has('name') }">
-        <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
+  <!-- your other form fields go here -->
 
-        <input type="text" name="email" placeholder="Your e-mail" v-validate="'required|email'"
-               :class="{ 'has-error': errors.has('email') }">
-        <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
-
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Your message" v-validate="'required'"
-                  :class="{ 'has-error': errors.has('message') }"></textarea>
-        <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
-
-        <button type="submit">Send</button>
-      </fieldset>
-    </form>
+  <button type="submit">Send</button>
+</form>
   </div>
 
 </div>
