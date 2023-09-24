@@ -15,7 +15,7 @@ I'm currently a UX Design Manager for [Google Cloud](https://cloud.google.com/) 
 
 Originally trained as a software engineer, I went back to [school](https://massart.edu/) to study Industrial Design, and now bring all of my experience to bear on crafting excellent product design experiences.
 
-I spent five years at one of the world's best design consultancies, [frog](https://frogdesign.com), a couple of years in corporate life helping make [Samsung's](https://www.samsung.com/us/mobile/phones/) mobile phones better, and four years building product design portfolios for San Francisco bay area startups including [SKULLY](https://www.google.com/search?q=skully) & [wrap](https://wrap.co).
+I spent five years at one of the world's best design consultancies, [frog](https://frogdesign.com), a couple of years in corporate life helping make [Samsung's](https://www.samsung.com/us/mobile/phones/) mobile phones better, and four years building product design portfolios for San Francisco bay area startups including [SKULLY](https://www.revzilla.com/common-tread/skully-ar-1-helmet-preview) & [wrap](https://wrap.co).
 
 If you'd like to learn more, get [in touch.](mailto:joshbloom@gmail.com)
 
