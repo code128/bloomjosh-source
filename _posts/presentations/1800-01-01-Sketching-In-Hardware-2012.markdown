@@ -13,7 +13,7 @@ image: /assets/img/sketching12.jpg
 
 ### The first time I attended Sketching 
 
-Presentation on 'Sketch to Prototype to Product' at my favorite conference and gathering of people, the Sketching in Hardware conference.
+Presentation on 'Sketch to Prototype to Product' at my favorite conference and gathering of people, the Sketching in Hardware conference series.
 
 + **Time Period:** July 2012
 + [Sketching in Hardware 2012](http://sketching-in-hardware.com/2012/)

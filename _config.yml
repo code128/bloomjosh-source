@@ -1,15 +1,15 @@
 # Site Settings
-title: Joshua Bloom | My House on the Internet
+title: Joshua Bloom | Portfolio
 email: joshbloom@gmail.com
-description: General background, pictures, etc
+description: General background, work, presentations, bio, etc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-78470181-1"
 
 # User Settings
 username: Joshua Bloom
-user_description: Some text about you.
-disqus_username: disqus_username
+#user_description: Some text about you.
+#disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
@@ -32,20 +32,15 @@ gems:
 links:
   - title: Welcome
     url: /
-  - title: Contact
-    url: /contact/
-  - title: "&nbsp"
   - title: Work
     url: /work/
   - title: Presentations
     url: /presentations/
-  - title: Ephemera
-    url: /ephemera/
-  - title: "&nbsp"
-  - title: Books
-    url: https://books.bloomjosh.com/
-  - title: Resume
-    url: /assets/Joshua_Bloom_Resume_2018_sm.pdf
+  - title: Contact
+    url: /contact/
+    
+  # - title: Resume
+  #   url: /assets/Joshua_Bloom_Resume_2018_sm.pdf
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

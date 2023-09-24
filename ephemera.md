@@ -3,7 +3,8 @@ layout: main
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="pageHeader">Selection of Ephemera (things I make for fun)</h1>
+    <h1 class="pageHeader">Selection of Ephemera (things I've made for fun)</h1>
+    <br>
     <div id="grid" class="row flex-grid">
 {% assign oldposts = site.posts | where: "label", "archive" %}
     {% for post in oldposts %}

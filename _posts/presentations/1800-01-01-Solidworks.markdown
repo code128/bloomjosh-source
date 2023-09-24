@@ -6,7 +6,7 @@ date: 2015-09-22
 tags:
   - presentation
   - skully
-description: One of my favorite conference. 
+description: Presentation on startup innovation at Solidworks Bostons. 
 image: /assets/img/solidworks_presentation.jpg
 
 ---

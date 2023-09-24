@@ -16,8 +16,8 @@ image: /assets/img/sfdesignweek_presentation.jpg
 
 
 + **Time Period:** June 2015
-+ [SF Design Week](https://2018.sfdesignweek.org/)
-+ [Panel Link](http://2015.sfdesignweek.org/events/github/)
++ [SF Design Week](https://sfdesignweek.org/)
++ [Panel Link](http://sfdesignweek.org/events/)
 
 <a href="/assets/img/sfdesignweek_presentation.jpg" data-fancybox="gallery" data-caption="">
   <img src="/assets/img/sfdesignweek_presentation.jpg" alt="" />

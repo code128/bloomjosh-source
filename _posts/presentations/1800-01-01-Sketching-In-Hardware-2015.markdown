@@ -6,7 +6,7 @@ date: 2015-08-07
 tags:
   - presentation
   - sketching15
-description: One of my favorite conference. 
+description: One of my favorite conferences. 
 image: /assets/img/sketching15.jpg
 
 ---

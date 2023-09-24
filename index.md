@@ -7,9 +7,9 @@ permalink: /
 
 <img itemprop="image" src="/assets/img/josh_bg.jpg" alt="Joshua Bloom">
 
-Welcome, I'm Joshua Bloom, a product design leader.
+Welcome, I'm Joshua Bloom, a product & design leader.
 
-I'm a UX Design Manager for [Google Cloud](https://cloud.google.com/) where I'm helping to expand the 'serverless' offerings.
+I'm currently a UX Design Manager for [Google Cloud](https://cloud.google.com/) on the Foundation Services team where I focus on building high performing design and research teams. My teams work to launch new products for our customers and enhance our existing offerings. 
 
 ### Background
 
