@@ -13,7 +13,7 @@ I'm Joshua Bloom, a product & design leader based in San Francisco 🌁.
 Currently I work as a UX Design Manager at [Google](https://google.com/) for [Google Cloud](https://cloud.google.com). I focus on building high performing, resilient design and research teams.
 My teams create, launch and land innovative new products like [Cloud Run](https://cloud.google.com/run) and [Workflows](https://cloud.google.com/workflows), as well as continually enhancing and improving our existing product portfolio to help our customers.
 
-I've worked across hardware, software and service design projects and find it especially rewarding when there are design opportunities bringing all of those surfaces together to build products that users love.
+I've worked across hardware, software and service design, and find it especially rewarding when there are design opportunities across all of those surfaces that can build products users love.
 
 ## Background
 
@@ -35,6 +35,6 @@ The easiest way to get my full work background is of course [LinkedIn.](https://
 <ul>
   <li>How tall are you? 6' 5"</li>
   <li>How many kids do you have? 1 boy and 1 girl</li>
-  <li>What motorcycle are you currently riding? 2016 KTM 1190R Adventure</li>
-  <li>How much time elapses between waking up and drinking an espresso? Average 3-4 minutes</li>
+  <li>What motorcycle are you currently riding? <a href="https://www.advpulse.com/adv-bikes/2015-ktm-1190-adventure-r-review/">2016 KTM 1190R Adventure</a></li>
+  <li>How much time elapses between waking up and drinking an espresso? I average about 3-4 minutes, but  <a href="https://www.betterup.com/blog/best-time-to-drink-coffee">research</a> seems to suggest waiting 90 minutes for your first cup can help avoid an afternoon crash.</li>
 </ul>
