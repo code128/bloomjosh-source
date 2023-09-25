@@ -7,11 +7,15 @@ permalink: /
 
 <img itemprop="image" src="/assets/img/josh_bg.jpg" alt="Joshua Bloom">
 
-Welcome, I'm Joshua Bloom, a product & design leader.
+Welcome 👋 <br>
+I'm Joshua Bloom, a product & design leader based in San Francisco 🌁. 
 
-I'm currently a UX Design Manager for [Google Cloud](https://cloud.google.com/) on the Foundation Services team where I focus on building high performing design and research teams. My teams work to launch new products for our customers and enhance our existing offerings. 
+Currently I work as a UX Design Manager at [Google](https://google.com/) for [Google Cloud](https://cloud.google.com). I focus on building high performing, resilient design and research teams.
+My teams create, launch and land innovative new products like [Cloud Run](https://cloud.google.com/run) and [Workflows](https://cloud.google.com/workflows), as well as continually enhancing and improving our existing product portfolio to help our customers.
 
-### Background
+I've worked across hardware, software and service design projects and find it especially rewarding when there are design opportunities bringing all of those surfaces together to build products that users love.
+
+## Background
 
 Originally trained as a software engineer, I went back to [school](https://massart.edu/) to study Industrial Design, and now bring all of my experience to bear on crafting excellent product design experiences.
 
