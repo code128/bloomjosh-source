@@ -63,6 +63,6 @@ Click the images to learn more.
 
 #### Watch this video for a quick overview of the SKULLY AR-1 Experience. ####
 
-<a data-fancybox href="https://www.youtube.com/embed/ZdcWd594lRw">
+<a data-fancybox href="https://youtu.be/8f1KS0P6swU">
     <img src="/assets/img/skullyVideo.jpg" alt="">
 </a>
