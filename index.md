@@ -8,15 +8,18 @@ permalink: /
 <img itemprop="image" src="/assets/img/josh_bg.jpg" alt="Joshua Bloom">
 
 Welcome 👋 <br>
-I'm Joshua Bloom, a product & design leader based in San Francisco 🌁. 
+I'm Josh Bloom, a product & design leader based in San Francisco 🌁. 
 
-Currently I work as a Senior UX Design Manager at [Google](https://google.com/) for [Google Cloud](https://cloud.google.com). I focus on building high performing, resilient design and research teams.
-My teams create, launch and land innovative new products like [Cloud Run](https://cloud.google.com/run), [Workflows](https://cloud.google.com/workflows), [App Hub](https://cloud.google.com/products/app-hub) and most recently [Application Design Center.](https://cloud.google.com/application-design-center/docs/overview)
+At [Google Cloud](https://cloud.google.com), I build high performing UX design teams, focused on creating products that simplify cloud complexity for our customers.
 
+My teams build, launch and land innovative new products like
+- [Application Design Center](https://cloud.google.com/application-design-center/docs/overview) (design & deploy cloud infrastructure)
+- [Cloud Run](https://cloud.google.com/run) (serverless containers)
+- [Workflows](https://cloud.google.com/workflows) (microservice orchestration)
 
-In addition to launching new products and features we continually enhance and improve our existing product portfolio with the ultimate goal of helping our customers launch their own succesful services.
+In addition to new products, we constantly improve our existing products.
 
-I've worked successfully across hardware, software and service design, and find it especially rewarding discovering new product  opportunities that come when you can think holistically about your customers entire journey. 
+I've worked successfully across hardware, software and service design, and find it especially rewarding discovering product  opportunities by focusing on holistic customer journeys.
 
 ## Background
 
@@ -31,13 +34,11 @@ If you'd like to learn more, get [in touch.](mailto:joshbloom@gmail.com)
 - Check out some of my work [here](/work).
 - See some of presentations [here](/presentations).
 
-<h3>Job History</h3>
+### Job History
 The easiest way to get my full work background is of course [LinkedIn.](https://www.linkedin.com/in/jbloom)
 
-<h3>FAQ</h3>
-<ul>
-  <li>How tall are you? 6' 5"</li>
-  <li>How many kids do you have? 1 boy and 1 girl</li>
-  <li>What motorcycle are you currently riding? <a href="https://www.advpulse.com/adv-bikes/2015-ktm-1190-adventure-r-review/">2016 KTM 1190R Adventure</a></li>
-  <li>How much time elapses between waking up and drinking an espresso? I average about 3-4 minutes, but  <a href="https://www.betterup.com/blog/best-time-to-drink-coffee">research</a> seems to suggest waiting 90 minutes for your first cup can help avoid an afternoon crash.</li>
-</ul>
+### FAQ
+  - How tall are you? 6' 5"
+  - How many kids do you have? 1 boy and 1 girl
+  - What motorcycle are you currently riding? [2016 KTM 1190R Adventure](https://www.advpulse.com/adv-bikes/2015-ktm-1190-adventure-r-review/)
+  - How much time elapses between waking up and drinking an espresso? I average about 3-4 minutes, but [research](https://www.betterup.com/blog/best-time-to-drink-coffee) seems to suggest waiting 90 minutes for your first cup can help avoid an afternoon crash
