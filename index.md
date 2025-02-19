@@ -10,10 +10,13 @@ permalink: /
 Welcome 👋 <br>
 I'm Joshua Bloom, a product & design leader based in San Francisco 🌁. 
 
-Currently I work as a UX Design Manager at [Google](https://google.com/) for [Google Cloud](https://cloud.google.com). I focus on building high performing, resilient design and research teams.
-My teams create, launch and land innovative new products like [Cloud Run](https://cloud.google.com/run) and [Workflows](https://cloud.google.com/workflows), as well as continually enhancing and improving our existing product portfolio to help our customers.
+Currently I work as a Senior UX Design Manager at [Google](https://google.com/) for [Google Cloud](https://cloud.google.com). I focus on building high performing, resilient design and research teams.
+My teams create, launch and land innovative new products like [Cloud Run](https://cloud.google.com/run), [Workflows](https://cloud.google.com/workflows), [App Hub](https://cloud.google.com/products/app-hub) and most recently [Application Design Center](https://cloud.google.com/application-design-center/docs/overview)
 
-I've worked across hardware, software and service design, and find it especially rewarding when there are design opportunities across all of those surfaces that can build products users love.
+
+In addition to launching new products and features we continually enhance and improve our existing product portfolio with the ultimate goal of helping our customers launch their own services.
+
+I've worked successfully across hardware, software and service design, and find it especially rewarding when there are new  design opportunities across all of those surfaces that can build products users love.
 
 ## Background
 

@@ -2,7 +2,7 @@
 
 ## Deploy
 
-Run ./deploy.sh locally build and push updated bloomjosh.com
+Run ./deploy.sh locally to build and push updated bloomjosh.com
 
 ## Build Locally
 
