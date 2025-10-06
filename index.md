@@ -10,7 +10,7 @@ permalink: /
 Welcome 👋 <br>
 I'm Josh Bloom, a product & design leader based in San Francisco 🌁. 
 
-At [Google](https://cloud.google.com), I focus on building and scaling high-performing UX design and research teams. I lead them to tackle complex, large-scale problems—from simplifying cloud infrastructure to designing intuitive, application-centric experiences that are used by millions of customers daily.
+At [Google](https://cloud.google.com), I focus on building and scaling high-performing UX design and research teams. I lead them to tackle complex, large-scale problems—from simplifying cloud infrastructure to designing intuitive, application-centric experiences used by millions of customers daily.
 
 My teams build, launch and land innovative new products including:
 - [Application Design Center](https://cloud.google.com/application-design-center/docs/overview) (design & deploy cloud infrastructure)
@@ -20,13 +20,13 @@ My teams build, launch and land innovative new products including:
 
 Learn more about the application-centric cloud I'm building at [this blog post](https://cloud.google.com/blog/products/application-development/an-application-centric-ai-powered-cloud)
 
-I thrive on discovering product opportunities by focusing on holistic customer needs through journeys that span hardware, software, and service design. My work at companies like Samsung, frog and SKULLY has centered on solving converged hardware and software challenges. especially when there are new paradigm changing technologies available.
+I thrive on discovering product opportunities by focusing on holistic customer needs through journeys that span hardware, software, and service design. My work at companies like Samsung, frog and SKULLY has centered on solving converged hardware and software challenges. especially when there are paradigm changing new technologies available to create with.
 
 ### Background
 
 Originally trained as a software engineer, I went back to [school](https://massart.edu/) to study Industrial Design, and now bring all of my experience to bear on crafting excellent product design experiences.
 
-I spent five years at one of the world's best design consultancies, [frog](https://frogdesign.com) focused on convergent hardware and software challenges, a couple of years in corporate life helping make [Samsung's](https://www.samsung.com/us/mobile/phones/) mobile phone and device story more connected, and four years building product design portfolios for San Francisco bay area startups including [SKULLY](https://www.revzilla.com/common-tread/skully-ar-1-helmet-preview) & [wrap](https://wrap.co).
+I spent five years at one of the world's best design consultancies, [frog](https://frogdesign.com) focused on convergent hardware and software challenges, a couple of years helping make [Samsung's](https://www.samsung.com/us/mobile/phones/) mobile OS and devices story more connected, and four years building product design portfolios for San Francisco bay area startups including [SKULLY](https://www.revzilla.com/common-tread/skully-ar-1-helmet-preview) & [wrap](https://wrap.co).
 
 If you'd like to learn more, get [in touch.](mailto:joshbloom@gmail.com)
 

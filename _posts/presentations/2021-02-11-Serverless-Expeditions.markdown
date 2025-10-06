@@ -15,7 +15,7 @@ image: /assets/img/serverless-expeditions.jpg
 
 ### A virtual presentation created during the Covid times helping explain Cloud Run 
 
-In this episode of Serverless Expeditions I help Martin Omander teach customers how they can easily build a REST API in front of Google Sheets using Cloud Run.
+In this episode of [Serverless Expeditions](https://www.youtube.com/playlist?list=PLIivdWyY5sqJwq_pgOxcHzusWjXDVCEiX) I help Martin Omander teach customers how they can easily build a REST API in front of Google Sheets using Cloud Run.
 
 
 + **Time Period:** February 2021
