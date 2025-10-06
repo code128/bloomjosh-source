@@ -11,7 +11,7 @@ description: Application Design Center, design & deploy cloud infrastructure
 image: /assets/img/google_adc.png
 ---
 
-### At Google Cloud I lead a globally distributed team creating a visual application infrastructure building tool.  
+### At Google Cloud I lead a globally distributed team creating a new visual application infrastructure building tool as a key part of the new [application-centric Google Cloud](https://cloud.google.com/blog/products/application-development/an-application-centric-ai-powered-cloud).
 
 + **Role:** UX Manager (design & research)
 + **Company:** [Google Cloud](https://cloud.google.com/)
