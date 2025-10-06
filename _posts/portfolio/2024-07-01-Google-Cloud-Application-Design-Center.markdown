@@ -11,15 +11,14 @@ description: Application Design Center, design & deploy cloud infrastructure
 image: /assets/img/google_adc.png
 ---
 
-### At Google Cloud I lead a globally distributed team creating a new visual application infrastructure building tool as a key part of the new [application-centric Google Cloud](https://cloud.google.com/blog/products/application-development/an-application-centric-ai-powered-cloud).
+### At Google Cloud I lead a globally distributed team creating a new visual application infrastructure building product as a key part of the new [application-centric Google Cloud](https://cloud.google.com/blog/products/application-development/an-application-centric-ai-powered-cloud).
 
-+ **Role:** UX Manager (design & research)
++ **Role:** UX Lead & Manager (design & research)
 + **Company:** [Google Cloud](https://cloud.google.com/)
 + **URL:** [Application Design Center](https://cloud.google.com/application-design-center/docs/overview)
 + **Time Period:** 2024 - 2025
 
-
-Application Design Center helps you and your teams streamline the design and deployment of application infrastructure on Google Cloud. Use App Design Center to establish and manage a catalog of approved architectural patterns, so developers can quickly and safely provision applications that align with organizational standards and best practices.
+Application Design Center helps teams streamline the design and deployment of application infrastructure on Google Cloud. Use App Design Center to establish and manage a catalog of approved architectural patterns, so development teams can quickly and safely provision applications that align with organizational standards and best practices. 
 
 ### Watch this video for an overview of the Application Design Center released at Google Cloud NEXT 2025
 
