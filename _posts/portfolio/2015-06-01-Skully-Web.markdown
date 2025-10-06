@@ -23,32 +23,37 @@ In the early days of the site there were a few main goals: generate excitement, 
  
 Big thanks on this project to the talented team that helped get all of this out the door:
 * [Caitlin Plunkett](https://www.behance.net/stateofrime)
-* [Danny Gillies](linkedin.com/in/danielgillies1)
-* [Donald Burlock](http://www.theburlockgroup.com)
+* [Danny Gillies](https://linkedin.com/in/danielgillies1)
+* [Donald Burlock](https://www.linkedin.com/in/donaldburlockjr/)
 * [Holden Steinberg](https://www.linkedin.com/in/holdensteinberg/)
-* [Jeff Broderick](http://brdrck.me/) 
-* [Trevor Will](http://trevorwillphoto.com/)
-* [Will Giovacchini](www.willgiovacchini.com)
+* [Jeff Broderick](https://www.linkedin.com/in/brdrck) 
+* [Trevor Will](https://www.linkedin.com/in/trevorwillphoto/)
+* [Will Giovacchini](http://www.willgiovacchini.com)
 
 Click the images to learn more. 
 
 <a href="/assets/img/sk_web_img1.jpg" data-fancybox="gallery" data-caption="We decided to focus heavily on mobile optimization and designed everything 'mobile first'.">
   <img src="/assets/img/sk_web_img1.jpg" alt="" />
 </a>
+We decided to focus heavily on mobile optimization and designed everything 'mobile first'.
 
 <a href="/assets/img/sk_web_img2.jpg" data-fancybox="gallery" data-caption="Selection of imagery was very important to keep the right feel for the brand: forward thinking, adventure and class.">
   <img src="/assets/img/sk_web_img2.jpg" alt="" />
 </a>
+Selection of imagery was very important to keep the right feel for the brand: forward thinking, adventure and class.
 
 <a href="/assets/img/sk_web_img3.jpg" data-fancybox="gallery" data-caption="Clean modern design with rider information brought forward was the order of the day.">
   <img src="/assets/img/sk_web_img3.jpg" alt="" />
 </a>
+Clean modern design with rider information brought forward was the order of the day.
 
 
 <a href="/assets/img/sk_web_img4.jpg" data-fancybox="gallery" data-caption="As a heavy content company, we were always looking for ways to leverage our other properties (instagram, youtube, vimeo, etc) and bring them together in one place, keeping the site stocked with fresh content without too much manual work.">
   <img src="/assets/img/sk_web_img4.jpg" alt="" />
 </a>
+As a heavy content company, we were always looking for ways to leverage our other properties (instagram, youtube, vimeo, etc) and bring them together in one place, keeping the site stocked with fresh content without too much manual work.
 
 <a href="/assets/img/sk_web_img5.jpg" data-fancybox="gallery" data-caption="Communicating the value of an expensive helmet, with features most people had never experienced was a continual challenge for our team.">
   <img src="/assets/img/sk_web_img5.jpg" alt="" />
 </a>
+Communicating the value of an expensive helmet, with features most people had never experienced was a continual challenge for our team.

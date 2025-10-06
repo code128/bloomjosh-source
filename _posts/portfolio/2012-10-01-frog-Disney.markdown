@@ -33,18 +33,19 @@ The video shows off the physical experience of using the band in the park. On th
 <a href="/assets/img/disney_img1.jpg" data-fancybox="gallery" data-caption="The Personal Experience Portal on Desktop, Kiosk, Mobile, and Tablet.">
   <img src="/assets/img/disney_img1.jpg" alt="" />
 </a>
+The Personal Experience Portal on Desktop, Kiosk, Mobile, and Tablet.
 
-.. my team designed and implemented the front end experience across multiple platforms including web, mobile (iOS) and kiosk (wintel) for guests, Tablet (wintel) and POS retail for castmembers. 
+My team designed and implemented the front end experience across multiple platforms including web, mobile (iOS) and kiosk (wintel) for guests, Tablet (wintel) and POS retail for castmembers. 
 
-<a href="/assets/img/disney_img2.jpg" data-fancybox="gallery" data-caption="Screenshots of the live fastpass selection system">
+<a href="/assets/img/disney_img2.jpg" data-fancybox="gallery" data-caption="Screenshots of the live fastpass selection system.">
   <img src="/assets/img/disney_img2.jpg" alt="" />
 </a>
-
-For a comprehensive walkthrough of this system check out <strong><a href="http://amyoztan.com/2014/01/28/how-to-use-fastpass">Amy Oztan's blog.
+Screenshots of the live fastpass selection system.
 
 <a href="/assets/img/disney_img3.jpg" data-fancybox="gallery" data-caption="A plan view of the prototype experience room. In this converted soundstage we built full scale replicas of every step in a guest's journey: from your home living room to the park entrance, to your resort hotel room. Massive!">
   <img src="/assets/img/disney_img3.jpg" alt="" />
 </a>
+A plan view of the prototype experience room. In this converted soundstage we built full scale replicas of every step in a guest's journey: from your home living room to the park entrance, to your resort hotel room. Massive!
 
 
 For more in depth behind the scenes details check out this story from **[Wired](https://www.wired.com/2015/03/disney-magicband/)**.
@@ -53,4 +54,3 @@ For more in depth behind the scenes details check out this story from **[Wired](
 Learn More: 
 * [Wired](https://www.wired.com/2015/03/disney-magicband/)
 * [USA Today](http://www.usatoday.com/story/dispatches/2014/01/27/disney-mymagic-vacation-planning/4582957/)
-* [Disney](https://disneyworld.disney.go.com/plan/my-disney-experience/my-magic-plus/)

@@ -28,18 +28,21 @@ Click the images to learn more.
 <a href="/assets/img/darpa_img1.jpg" data-fancybox="gallery" data-caption="Sample of a persona from the research.">
   <img src="/assets/img/darpa_img1.jpg" alt="" />
 </a>
+Sample of a persona from the research.
 
 After completing our research and user interviews, we generated user personas that helped us understand the differing roles and types of users of the system. As this was designed for the armed forces there was a clear chain of command and each role had specific needs and capabilities that we kept top of mind during the design phase.  
 
 <a href="/assets/img/darpa_img2.jpg" data-fancybox="gallery" data-caption="An example of the wireframes explaining the interaction design for the multitouch table.">
   <img src="/assets/img/darpa_img2.jpg" alt="" />
 </a>
+An example of the wireframes explaining the interaction design for the multitouch table.
 
 As we began honing in on the overall interaction model, we were doing technical spikes on prospective platforms to ensure they could handle the number of nodes we would need. These helped us understand the materiality that we were dealing with and allowed us to test our assumptions against current state of the art hardware, knowing that these would be closer to middle of the road specs when Plan X was rolled out live.  
 
 <a href="/assets/img/darpa_img3.jpg" data-fancybox="gallery" data-caption="The selected visual style for our system.">
   <img src="/assets/img/darpa_img3.jpg" alt="" />
 </a>
+The selected visual style for our system.
 
 
 In parallel our visual designer was creating a few style approaches for the overall visual language. In collaboration with our client we chose a very scifi looking style that worked really well for drawing the nodes and connectors of the internet. 
@@ -48,6 +51,7 @@ In parallel our visual designer was creating a few style approaches for the over
 <a href="/assets/img/darpa_img4.jpg" data-fancybox="gallery" data-caption="The Samsung multitouch table that ran the interface for our simulation. This is not the actual system on the display.">
   <img src="/assets/img/darpa_img4.jpg" alt="" />
 </a>
+The Samsung multitouch table that ran the interface for our simulation. This is not the actual system on the display.
 
 By the end we had everything working together on a 40" multitouch surface that could sense special physical objects we made to use as markers and tokens. 
 
@@ -65,4 +69,3 @@ Learn more about this project by following these links:
 * [Wired 1](https://www.wired.com/2013/05/pentagon-cyberwar-angry-birds/)
 * [Wired 2](https://www.wired.com/2014/05/darpa-is-using-oculus-rift-to-prep-for-cyberwar/)
 * [Defense.Gov](https://www.defense.gov/News/Article/Article/758219/darpas-plan-x-gives-military-operators-a-place-to-wage-cyber-warfare)
-* [Darpa](http://www.darpa.mil/program/plan-x)

@@ -41,7 +41,9 @@ Click the images to learn more.
 <a href="/assets/img/sk_hud_img2.jpg" data-fancybox="gallery" data-caption="A sample of the wiki based documentation system I developed to help our distributed development team keep on top of all design updates and changes.">
   <img src="/assets/img/sk_hud_img2.jpg" alt="" />
 </a>
+A sample of the wiki based documentation system I developed to help our distributed development team keep on top of all design updates and changes.
 
 <a href="/assets/img/sk_hud_img3.jpg" data-fancybox="gallery" data-caption="The wiki documentation system featured animated movies to help explain the subtle aspects of the desired transitions. If you don't architect for these kinds of things early, the UI can be very hard to retrofit with animations.">
   <img src="/assets/img/sk_hud_img3.jpg" alt="" />
 </a>
+The wiki documentation system featured animated movies to help explain the subtle aspects of the desired transitions. If you don't architect for these kinds of things early, the UI can be very hard to retrofit with animations.

@@ -24,15 +24,19 @@ Click the images to learn more.
 <a href="/assets/img/wrap_saas_img4.jpg" data-fancybox="gallery" data-caption="Large poster format I created to help socialize a new approach to automated card creation. Large scale representations of complex user flows are key for helping gain internal buy in and consensus on new ideas. ">
   <img src="/assets/img/wrap_saas_img4.jpg" alt="" />
 </a>
+Large poster format I created to help socialize a new approach to automated card creation. Large scale representations of complex user flows are key for helping gain internal buy in and consensus on new ideas.
 
 <a href="/assets/img/wrap_saas_img1.jpg" data-fancybox="gallery" data-caption="Screenshot: Main wrap view showing both manually created Wraps as well as Wraps that were used in personalization (the lightning bolt sign).">
   <img src="/assets/img/wrap_saas_img1.jpg" alt="" />
 </a>
+Screenshot: Main wrap view showing both manually created Wraps as well as Wraps that were used in personalization (the lightning bolt sign).
 
 <a href="/assets/img/wrap_saas_img2.jpg" data-fancybox="gallery" data-caption="Screenshot: Editing of bound data tokens.">
   <img src="/assets/img/wrap_saas_img2.jpg" alt="" />
 </a>
+Screenshot: Editing of bound data tokens.
 
 <a href="/assets/img/wrap_saas_img3.jpg" data-fancybox="gallery" data-caption="Screenshot: Card collection screen. Collections are how users can create, group and search 1000s of cards easily with tagging.">
   <img src="/assets/img/wrap_saas_img3.jpg" alt="" />
 </a>
+Screenshot: Card collection screen. Collections are how users can create, group and search 1000s of cards easily with tagging.

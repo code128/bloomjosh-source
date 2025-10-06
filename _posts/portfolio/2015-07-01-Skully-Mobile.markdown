@@ -31,15 +31,19 @@ Click the images to learn more.
 <a href="/assets/img/sk_img5.jpg" data-fancybox="gallery" data-caption="Feature & version planning and priority spreadsheet. This might be the least glamorous part of building software, weighing the tradeoffs and resources to decide what to tackle next.">
   <img src="/assets/img/sk_img5.jpg" alt="" />
 </a>
+Feature & version planning and priority spreadsheet. This might be the least glamorous part of building software, weighing the tradeoffs and resources to decide what to tackle next.
 
 <a href="/assets/img/sk_img2.jpg" data-fancybox="gallery" data-caption="Beginning to map visually designed screens to the whiteboard based flow. One of my favorite things to do is to combine detailed digital design, with the flexibility of whiteboards to really understand complicated user flows.">
   <img src="/assets/img/sk_img2.jpg" alt="" />
 </a>
+Beginning to map visually designed screens to the whiteboard based flow. One of my favorite things to do is to combine detailed digital design, with the flexibility of whiteboards to really understand complicated user flows.
 
 <a href="/assets/img/sk_img3.jpg" data-fancybox="gallery" data-caption="As the app takes shape, the digital documentation begins to be fully formed.">
   <img src="/assets/img/sk_img3.jpg" alt="" />
 </a>
+As the app takes shape, the digital documentation begins to be fully formed.
 
-<a href="/assets/img/sk_img4.jpg" data-fancybox="gallery" data-caption="This 'Style tile' helped us hone in on the visual style and gain an early feel for the overall application. I use these to help gain executive buy in, without having to fully design out all screens. ">
+<a href="/assets/img/sk_img4.jpg" data-fancybox="gallery" data-caption="This 'Style tile' helped us hone in on the visual style and gain an early feel for the overall application. I use these to help gain executive buy in, without having to fully design out all screens.">
   <img src="/assets/img/sk_img4.jpg" alt="" />
 </a>
+This 'Style tile' helped us hone in on the visual style and gain an early feel for the overall application. I use these to help gain executive buy in, without having to fully design out all screens.

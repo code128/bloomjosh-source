@@ -28,11 +28,14 @@ Click the images to learn more.
 <a href="/assets/img/samsung_os_img1.jpg" data-fancybox="gallery" data-caption="Thinking through the architecture of our new OS.">
   <img src="/assets/img/samsung_os_img1.jpg" alt="" />
 </a>
+Thinking through the architecture of our new OS.
 
 <a href="/assets/img/samsung_os_img2.jpg" data-fancybox="gallery" data-caption="Some of the research findings that informed our design.">
   <img src="/assets/img/samsung_os_img2.jpg" alt="" />
 </a>
+Some of the research findings that informed our design.
 
 <a href="/assets/img/samsung_os_img3.jpg" data-fancybox="gallery" data-caption="Various proposed visual design styles. None of these were selected for the prototype.">
   <img src="/assets/img/samsung_os_img3.jpg" alt="" />
 </a>
+Various proposed visual design styles. None of these were selected for the prototype.
