@@ -26,7 +26,7 @@ Application Design Center helps teams streamline the design and deployment of ap
     <img src="/assets/img/adc-preview.jpg" alt="">
 </a>
 
-##### Of course we're leveraging the latest in artificial intelligence so Gemini can be your trusted companion in designing, secure, performant, and cost effective architectures.
+##### Of course we're leveraging the latest in artificial intelligence so Gemini can be your trusted companion in designing secure, performant, and cost effective architectures.
 
 <a href="/assets/img/adc-gemini.png" data-fancybox="gallery" data-caption="Gemini designing an architecture based on a chat prompt.">
   <img src="/assets/img/adc-gemini.png" alt="" />

@@ -26,10 +26,10 @@ Click the images to learn more.
 </a>
 Large poster format I created to help socialize a new approach to automated card creation. Large scale representations of complex user flows are key for helping gain internal buy in and consensus on new ideas.
 
-<a href="/assets/img/wrap_saas_img1.jpg" data-fancybox="gallery" data-caption="Screenshot: Main wrap view showing both manually created Wraps as well as Wraps that were used in personalization (the lightning bolt sign).">
+<a href="/assets/img/wrap_saas_img1.jpg" data-fancybox="gallery" data-caption="Screenshot: Main Wrap view showing both manually created Wraps as well as Wraps that were used in personalization (the lightning bolt sign).">
   <img src="/assets/img/wrap_saas_img1.jpg" alt="" />
 </a>
-Screenshot: Main wrap view showing both manually created Wraps as well as Wraps that were used in personalization (the lightning bolt sign).
+Screenshot: Main Wrap view showing both manually created Wraps as well as Wraps that were used in personalization (the lightning bolt sign).
 
 <a href="/assets/img/wrap_saas_img2.jpg" data-fancybox="gallery" data-caption="Screenshot: Editing of bound data tokens.">
   <img src="/assets/img/wrap_saas_img2.jpg" alt="" />
