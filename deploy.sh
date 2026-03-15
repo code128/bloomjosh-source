@@ -9,3 +9,6 @@ firebase deploy
     #firebase logout   #logging out
     #npm install -g firebase-tools #upgrading firebase
     #firebase logout   #logging back in
+
+# Open the deployed URL
+open "https://bloomjosh.com"
