@@ -16,7 +16,7 @@ image: /assets/img/google_adc.png
 + **Role:** UX Lead & Manager (design & research)
 + **Company:** [Google Cloud](https://cloud.google.com/)
 + **URL:** [Application Design Center](https://cloud.google.com/application-design-center/docs/overview)
-+ **Time Period:** 2024 - 2025
++ **Time Period:** 2024 - 2026
 
 Application Design Center helps teams streamline the design and deployment of application infrastructure on Google Cloud. Use App Design Center to establish and manage a catalog of approved architectural patterns, so development teams can quickly and safely provision applications that align with organizational standards and best practices. 
 
