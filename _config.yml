@@ -24,8 +24,8 @@ highlighter: rouge
 permalink: /:title/
 
 # Plugins
-gems:
-  - jemoji
+# gems:
+#   - jemoji
 
 # Links to include in menu navigation
 # For external links add external: true
@@ -43,4 +43,4 @@ links:
   #   url: /assets/Joshua_Bloom_Resume_2018_sm.pdf
 
 # Exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+exclude: ['package.json', 'src', 'node_modules', 'vendor']

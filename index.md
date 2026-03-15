@@ -8,7 +8,7 @@ permalink: /
 <img itemprop="image" src="/assets/img/josh_bg.jpg" alt="Joshua Bloom">
 
 Welcome 👋 <br>
-I'm Josh Bloom, a product & design leader based in San Francisco 🌁. 
+I'm Joshua Bloom, a product & design leader based in San Francisco 🌁. 
 
 At [Google](https://cloud.google.com), I focus on building and scaling high-performing UX design and research teams. I lead them to tackle complex, large-scale problems—from simplifying cloud infrastructure to designing intuitive, application-centric experiences used by millions of customers daily.
 

@@ -1,5 +1,14 @@
 # bloomjosh-source
 
+## Local install 
+node 
+ruby 
+jekyll
+gulp
+npm install 
+
+- Ah fuck it, just let Antigravity figure it out and fix it for you :) 
+
 ## Deploy
 
 Run ./deploy.sh locally to build and push updated bloomjosh.com
